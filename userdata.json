@@ -18,5 +18,12 @@
         "key": "Selangkah",
         "expirydate": "15-02-2026",
         "Allowoffline": false
+    },
+
+    {
+        "device_id": "488633e5757890d1",
+        "key": "Angga123",
+        "expirydate": "15-02-2026",
+        "Allowoffline": false
     }
 ]
