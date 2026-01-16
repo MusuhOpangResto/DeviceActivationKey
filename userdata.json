@@ -6,31 +6,21 @@
         "Allowoffline": true
     },    
     {
-        "device_id": "962707e37b1e7917",
-        "key": "WowoHebat",
-        "expirydate": "15-02-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "b6a1a489e1bff56c",
         "key": "Bionanda123",
         "expirydate": "15-02-2026",
         "Allowoffline": false
     },
-
         {
         "device_id": "5307818abb9c40ac",
         "key": "Realme3",
         "expirydate": "15-02-2026",
         "Allowoffline": false
     },
-
     {
         "device_id": "c82fcd80b9a02cf5",
         "key": "selangkah123",
         "expirydate": "15-02-2026",
         "Allowoffline": false
     }
-
-    
 ]
