@@ -22,5 +22,11 @@
         "key": "selangkah123",
         "expirydate": "15-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b0140ff24b8dd7ff",
+        "key": "sangjuara",
+        "expirydate": "20-02-2026",
+        "Allowoffline": false
     }
 ]
