@@ -28,5 +28,11 @@
         "key": "sangjuara",
         "expirydate": "20-02-2026",
         "Allowoffline": false
+    },
+       {
+        "device_id": "b793ca70ded78df2",
+        "key": "Merdeka45",
+        "expirydate": "20-02-2026",
+        "Allowoffline": false
     }
 ]
